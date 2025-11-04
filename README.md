@@ -5,6 +5,12 @@ BeatScan is a platform designed to help music producers protect their work from 
 
 The system analyzes audio using fingerprint recognition, compares it across a large music library, and returns a list of results. This gives producers a reliable way to monitor their catalog, identify copyright violations, and take action when necessary.
 
+## Preview
+- BeatScan Upload and Scan Demo
+  
+  ![BeatScan Upload and Scan Demo](images/upload&scan-demo.gif)
+- BeatScan YouTube Link Scanning Demo
+  ![BeatScan YouTube Link Scanning Demo](images/youtube-link&scan-demo.gif)
 ## Problem
 Nowadays music producers often share or sell their beats online, but once the audio is released publicly, it becomes difficult to track how and where it is being used. Many artists use beats without purchasing the proper license, and some even upload the song to streaming platforms, profiting from it. Manually searching for unauthorized usage is nearly impossible.
 
