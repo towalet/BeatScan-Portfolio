@@ -48,8 +48,7 @@ This gives creators control, transparency, and protection over their music- with
 
 ## Tech Stack
 - Backend: Django (Python)
-- Database (Current): SQLite (development stage)
-- Database (Migration in Progress): PostgreSQL (production)
+- Database: PostgreSQL
 - API Integration: ACRCloud (File-Scanning API)
 - Payments: Stripe API (Memberships & Credits System)
 - Deployment: AWS Elastic Beanstalk (EBS) (Dockerization in progress)
@@ -59,16 +58,13 @@ This gives creators control, transparency, and protection over their music- with
 ## Roadmap
 
 Current Stage
-
 - Core scanning system built (Deep Scan + Normal Scan)
 - YouTube link scanning and bulk upload functioning
 - Stripe memberships integrated
 - Dashboard UI active
-- Database currently running on SQLite for development
+- The database has been migrated from SQLite to PostgreSQL to support deployment on AWS Elastic Beanstalk.
 
 Next Steps
-
-- Migrate Database to PostgreSQL
 - Improve reliability, scaling, and query performance.
 - Docker Containerization
 - Standardize the runtime environment and simplify deployment.
