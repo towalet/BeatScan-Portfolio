@@ -63,6 +63,8 @@ Current Stage
 - Stripe memberships integrated
 - Dashboard UI active
 - The database has been migrated from SQLite to PostgreSQL to support deployment on AWS Elastic Beanstalk.
+- Refactored the detection engine to shift from raw segment scanning to fingerprint hashing. By storing only compact audio fingerprints rather than entire tracks, the system now uses significantly less storage and performs matching much faster scans and rescans.
+  - This update made the system faster and cheaper to run by cutting storage needs, reducing API costs, and improving scan speed for users.
 
 Next Steps
 - Improve reliability, scaling, and query performance.
