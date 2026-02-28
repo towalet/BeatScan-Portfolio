@@ -16,10 +16,7 @@ The application is deployed in a **production AWS environment** and optimized fo
 
 ---
 
-## Preview
-
-- **Beat Upload & Scan Demo**  
-  ![BeatScan Upload and Scan Demo](images/beatscan_logo_2.png)
+  ![BeatScan Logo](images/beatscan_logo_2.png)
 
 ---
 
