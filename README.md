@@ -74,7 +74,7 @@ This gives creators control, transparency, and protection over their music.
   Efficient scanning for large beat catalogs.
 
 - **Audio Fingerprint Matching**  
-  Industry-grade recognition powered by ACRCloud.
+  Industry-grade recognition.
 
 - **Duplicate Match Removal**  
   Automatically filters repeated matches.
