@@ -102,7 +102,7 @@ To ensure legal compliance, BeatScan only supports **user-uploaded audio files**
 - PostgreSQL (AWS RDS)
 
 **Audio Recognition**
-- ACRCloud File-Scanning API
+- File-Scanning API
 
 **Payments**
 - Stripe API (subscriptions & credits)
